@@ -1,0 +1,11 @@
+license ID, name, surname, phone_number, cash, numberPlate, colour, model, type
+license123,Mary, Poppins, 0753672916, 1000, nz256, blue, BMW, X
+license837,Jack, Jackson, 0759275692, 5000, nz736, orange, Lexus, X
+license297,Tom, Oliver, 0758529497, 2000, nz926, black, Fortuner, XL
+license015,Ben, Denver, 0752874948, 3000, nz324, red , Land Rover, L
+license287,Ethan, Chapman, 0755482072, 1000, nz552, green, Honda BR-V , XL
+license274,Jacob, Robbins, 0757354474, 2000, nz900, white, Chevrolet, X
+license738,Cameron, Pope, 0759963001, 5000, nz227, yellow, Bugatti, X
+license037,Kim, Kardashian, 0756383637, 4000, nz718, silver, Range rover, XL
+license648,Gabby, Levi, 0759783241, 6000, nz015, red, Ferrari, X
+license926,Juliet, Thompson, 0759265856, 4000, nz241, pink, Tesler, X
